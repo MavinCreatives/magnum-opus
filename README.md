@@ -1,2 +1,4 @@
 # magnum-opus
-sample 
+
+New project
+
