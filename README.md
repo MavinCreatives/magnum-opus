@@ -1,2 +1,6 @@
 # magnum-opus
-sample 
+
+New sample project for Mavin Creatives
+
+Team Members: Nikki Spencer and herself.
+
